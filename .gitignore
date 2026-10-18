@@ -1,3 +1,5 @@
 # Build output and logs
 out/
 *.log
+*.swp
+*~
